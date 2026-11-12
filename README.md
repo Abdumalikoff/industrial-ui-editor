@@ -12,7 +12,7 @@ Instead of hardcoding individual screens, users can visually create and configur
 ## Core Features
 
 **Visual Editor**
-- Custom interactive canvas with drag-and-drop components
+- Custom interactive canvas with draggable and configurable UI components
 - Multi-selection, alignment, snapping, and element manipulation
 - Logical coordinate system with adaptive scaling
 - Dynamic property editing and configurable component behavior
@@ -37,7 +37,7 @@ Instead of hardcoding individual screens, users can visually create and configur
 | Data Layer | MariaDB, ODBC, configuration persistence, signal bindings |
 | Interoperability | Managed-to-native integration using P/Invoke |
 | Visualization | Custom chart rendering, historical data processing, interactive navigation |
-| Workflow | Local drafts, controlled publishing, multi-operator coordination |
+| Workflow | Local drafts, controlled publishing, page work-status tracking |
 
 ## Tech Stack
 
@@ -59,14 +59,17 @@ Dynamic reconstruction and display of the configured interface in a separate run
 
 https://github.com/user-attachments/assets/ac00a3c4-877f-4833-8a1f-ef4728b6d9c5
 
+
 ## Project Information
 
-**Type:** Commercial / Enterprise Desktop Software  
-**Status:** In active development and operational use  
-**Platform:** Windows
+**Category:** Industrial Desktop Software  
+**Platform:** Windows  
+**Development:** Real-world software engineering project
 
-This project was developed for a real-world industrial environment as part of a software modernization initiative.
+Developed as part of the modernization of an existing industrial monitoring system.
 
-Due to confidentiality and intellectual property restrictions, the **source code, production binaries, internal infrastructure, and sensitive operational data are not publicly available**.
+The project demonstrates practical experience in desktop application architecture, custom UI engineering, asynchronous data processing, database integration, and dynamic interface rendering.
 
-This repository serves as a technical portfolio case study, showcasing the system's architecture, implemented functionality, and engineering challenges.
+This repository is intended exclusively as a technical portfolio case study.
+
+The source code, executable binaries, production configurations, and internal infrastructure details are not publicly distributed.
