@@ -43,11 +43,21 @@ Instead of hardcoding individual screens, users can visually create and configur
 
 `VB.NET` · `.NET 10` · `Windows Forms` · `MariaDB` · `ODBC` · `P/Invoke` · `Async/Await` · `GDI+`
 
-## Screenshots
+## Demo
 
-*Selected screenshots demonstrating the visual editor, runtime interface, and data visualization capabilities.*
+Short demonstrations of the visual editor and runtime application using a test interface.
 
-Screenshots will be added here.
+### Visual Editor
+
+Creating, positioning, and configuring UI components through the custom visual editor.
+
+https://github.com/user-attachments/assets/f52a2665-4d8f-4df6-8cb8-8674df1a834c
+
+### Runtime Viewer
+
+Dynamic reconstruction and display of the configured interface in a separate runtime application.
+
+https://github.com/user-attachments/assets/ac00a3c4-877f-4833-8a1f-ef4728b6d9c5
 
 ## Project Information
 
